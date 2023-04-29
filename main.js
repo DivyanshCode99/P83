@@ -39,7 +39,7 @@ var last_position_of_x, last_position_of_y;
 
         
         ctx.beginPath();
-        ctx.strokeStyle = color;
+       // ctx.strokeStyle = color;
         ctx.lineWidth = width_of_line;
 
         console.log("Last position of x and y coordinates = ");
